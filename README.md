@@ -55,4 +55,4 @@ Open `http://localhost:5173` in browser.
 
 ## Notes
 - This is not production-ready storage; only for demos. JSON file persistence resets if deleted.
-- JWT secret is in `.env`; change before sharing.
+- JWT secret is in `.env`; change before sharing. 
